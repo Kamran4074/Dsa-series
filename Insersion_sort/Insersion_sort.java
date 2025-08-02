@@ -17,9 +17,9 @@ public class Insersion_sort {
         }
     }
     public static void main(String[] args) {
-        int arr[]= {7,6,5,3,0,2,1};
-        insersion_sort(arr, arr.length);
-        for(int i:arr){
+        int array[]= {7,6,5,3,0,2,1};
+        insersion_sort(array, array.length);
+        for(int i:array){
             System.out.print(i+" ");
         }
     }
